@@ -1,1 +1,1 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jieun011211&layout=compact)](https://github.com/Jieun011211/github-readme-stats)
+![Jieun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jieun011211&show_icons=true&theme=radical)
